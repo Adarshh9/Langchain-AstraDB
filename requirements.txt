@@ -7,3 +7,4 @@ PyPDF2
 sentence-transformers
 uvicorn
 fastapi
+python-dotenv
