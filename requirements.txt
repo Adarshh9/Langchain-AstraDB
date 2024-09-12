@@ -1,0 +1,9 @@
+cassio 
+datasets 
+langchain 
+tiktoken
+langchain-community
+PyPDF2
+sentence-transformers
+uvicorn
+fastapi
